@@ -1,5 +1,5 @@
-<img align="left" alt="Helios" width="30px" src="https://i.imgur.com/t5JJWVs.png" /> <br/>
-- Helios Discord Bot
+<img align="left" alt="Helios" width="85px" src="https://cdn.discordapp.com/attachments/806542660222845000/958500045857128508/24d24970bc39861e1920150de0cd85a4-modified.png" /> <br/>
+<a href="https://ptb.discord.com/api/oauth2/authorize?client_id=943707310025478184&permissions=1100014414967&scope=bot">Invite Helios!</a>
 <br>
 <br>
 <br>
