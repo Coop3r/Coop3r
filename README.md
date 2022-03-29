@@ -1,5 +1,5 @@
-![welcome](https://i.imgur.com/a/1vfkY4B) <br/>
-[![discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://discord.gg/23sx2Qked4)
+![welcome](https://i.imgur.com/t5JJWVs.png) <br/>
+- Helios Discord Bot
 
 
 - Javascript/Typescript penis-man
