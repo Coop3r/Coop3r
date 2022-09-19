@@ -4,9 +4,8 @@
 <br>
 <br>
 
-- Javascript/Typescript penis-man
+- Javascript/Typescript, Java penis-man
 - Block game enthusiast.
-- Learning Java! <br />
 - Playing tic tac toe with your mother!
 
 ### Languages and Tools:
