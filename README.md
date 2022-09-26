@@ -1,12 +1,11 @@
 <img align="left" alt="Helios" width="85px" src="https://cdn.discordapp.com/attachments/806542660222845000/958500045857128508/24d24970bc39861e1920150de0cd85a4-modified.png" /> <br/>
-<a href="https://ptb.discord.com/api/oauth2/authorize?client_id=943707310025478184&permissions=1100014414967&scope=bot">Invite Helios!</a>
 <br>
 <br>
 <br>
 
 - Javascript/Typescript, Java penis-man
-- Block game enthusiast.
-- Playing tic tac toe with your mother!
+- Blockchain enthusiast.
+- Learning about ethereum smart contracts!
 
 ### Languages and Tools:
 
@@ -18,11 +17,10 @@
 
 ---
 
-### 📺 Dupe on 2b2t 🥶
+### Crypto
 
-<!-- YOUTUBE:START -->
-- [Unpatched :o](https://www.youtube.com/watch?v=ouWzUst8KKQ&t)
-<!-- YOUTUBE:END -->
+- Public ENS: coooper.eth
+- Public BTC: bc1qen0up3sjm8mljl3cmvuaz7e94p2ztjk2dmthjq
 
 ---
 
