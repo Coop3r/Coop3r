@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 
 - Javascript/Typescript, Java penis-man
 - Blockchain enthusiast.
