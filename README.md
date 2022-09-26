@@ -1,4 +1,3 @@
-<img align="left" alt="Helios" width="85px" src="https://cdn.discordapp.com/attachments/806542660222845000/958500045857128508/24d24970bc39861e1920150de0cd85a4-modified.png" /> <br/>
 <br>
 <br>
 <br>
