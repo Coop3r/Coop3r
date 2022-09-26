@@ -1,5 +1,5 @@
 
-- Javascript/Typescript, Java penis-man
+- Javascript/Typescript, Java developer
 - Blockchain enthusiast.
 - Learning about ethereum smart contracts!
 
