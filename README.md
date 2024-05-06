@@ -1,7 +1,7 @@
 
 - Javascript/Typescript, Java developer
 - Blockchain enthusiast.
-- Learning about ethereum smart contracts!
+- Shorting btc
 
 ### Languages and Tools:
 
