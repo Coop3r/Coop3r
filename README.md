@@ -1,7 +1,7 @@
 
-- Javascript/Typescript, Java developer
+- Javascript/Typescript, Java, and lua developer
 - Blockchain enthusiast.
-- Shorting btc
+- Collecting coinz
 
 ### Languages and Tools:
 
@@ -15,7 +15,7 @@
 
 ### Crypto
 
-- Public ENS: coooper.eth
+- Public ENS: cashout.eth
 - Public BTC: bc1qen0up3sjm8mljl3cmvuaz7e94p2ztjk2dmthjq
 
 ---
