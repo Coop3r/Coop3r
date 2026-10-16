@@ -23,4 +23,4 @@ Economics student and developer building bots, blockchain tools, and automated s
 
 ---
 
-[GitHub](https://github.com/Coop3r) · [Etheridge Capital](https://etheridgecap.com)
+[GitHub](https://github.com/Coop3r)
