@@ -1,24 +1,26 @@
+## Hey, I'm Cooper 👋
 
-- Javascript/Typescript, Java, and lua developer
-- Blockchain enthusiast.
-- Collecting coinz
+Economics student and developer building bots, blockchain tools, and automated systems.
 
-### Languages and Tools:
+- 💻 Working with JavaScript, TypeScript, Python, Java, Lua, and Solidity.
+- 🛠️ Building Discord bots, APIs, and blockchain applications.
+- 📈 Interested in DeFi, financial markets, and algorithmic trading.
+- 🪙 Still collecting coinz.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="ts" width="26px" src="https://i.imgur.com/vSgFULR.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" /> 
-<img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" /> <br />
+### Languages and Tools
 
----
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,lua,solidity,nodejs,postgres,mongodb,git,linux,vscode)](https://skillicons.dev)
+
+### What I Build
+
+- **Connected** — Roblox tools and Discord integrations.
+- **Etheridge Prime** — DeFi strategies and blockchain applications.
+- **Trading systems** — Market aggregation, arbitrage, and automated strategies.
 
 ### Crypto
 
-- Public ENS: cashout.eth
-- Public BTC: bc1qen0up3sjm8mljl3cmvuaz7e94p2ztjk2dmthjq
+- **ENS:** `cashout.eth`
 
 ---
 
-
-**© [Coop3r](https://github.com/Coop3r)**
+[GitHub](https://github.com/Coop3r) · [Etheridge Capital](https://etheridgecap.com)
